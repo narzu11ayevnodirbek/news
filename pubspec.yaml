@@ -1,0 +1,51 @@
+name: news
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  dio: ^5.8.0+1
+  firebase_analytics: ^11.5.2
+  firebase_auth: ^5.6.2
+  firebase_core: ^3.15.1
+  firebase_messaging: ^15.2.9
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^19.3.0
+  flutter_riverpod: ^2.6.1
+  flutter_svg: ^2.2.0
+   
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  mockito: ^5.4.6
+  build_runner: ^2.5.4
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/
+
+  fonts:
+    - family: SFPro
+      fonts:
+        - asset: assets/fonts/SF-Pro-Regular.otf
+          weight: 400
+        - asset: assets/fonts/SF-Pro-RegularItalic.otf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/SF-Pro-Medium.otf
+          weight: 500
+        - asset: assets/fonts/SF-Pro-Bold.otf
+          weight: 700

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618034767639",
+    "project_id": "news-1d3a2",
+    "storage_bucket": "news-1d3a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618034767639:android:cecd022ea22395d7f57952",
+        "android_client_info": {
+          "package_name": "uz.flutterchi.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Frt3s7Oel2w8E8mav1a5ykdEatTGDUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
