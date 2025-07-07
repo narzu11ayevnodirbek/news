@@ -48,3 +48,9 @@ Built with clean architecture and Riverpod for state management. Supports Fireba
    ```bash
    git clone https://github.com/narzu11ayevnodirbek/news.git
    cd news-app
+
+
+## 🖼 Demo
+
+![App Demo](assets/gifs/exam_project.gif)
+
